@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\sefihuom",
+    "\\src\\main\\java\\com\\sefihuom\\springDemo",
+    "\\src\\main\\java\\com\\sefihuom\\springDemo\\apiDemo",
+    "\\src\\main\\webapp",
+    "\\src\\test"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\sefihuom\\springDemo\\apiDemo\\ProductsController.java",
+  "PreviewInSolutionExplorer": false
+}

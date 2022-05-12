@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\sefihuom",
+    "\\src\\main\\java\\com\\sefihuom\\hibernateAndJpa",
+    "\\src\\main\\java\\com\\sefihuom\\hibernateAndJpa\\Business",
+    "\\src\\main\\java\\com\\sefihuom\\hibernateAndJpa\\DataAccess",
+    "\\src\\main\\java\\com\\sefihuom\\hibernateAndJpa\\Entities"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\sefihuom\\hibernateAndJpa\\DataAccess\\HibernateCityDal.java",
+  "PreviewInSolutionExplorer": false
+}

@@ -4,12 +4,12 @@ public class CustomerManager implements ICustomerService {
 	
 	private ICustomerDal customerDal;
 	
-	// constructor injection ENGİN HOCAM DERKİ BUNU KULLANIN
+	// constructor injection Tavsiye !!!
 	//public CustomerManager(ICustomerDal customerDal) {
 	//	this.customerDal = customerDal;
 	//}
 	
-	// setter injection TAVSİYE BU DEĞİL
+	// setter injection TAVSİYE BU DEĞİL !!
     public void setCustomerDal(ICustomerDal customerDal) {
 		this.customerDal = customerDal;
 	}

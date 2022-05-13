@@ -2,13 +2,6 @@ package com.springdemo;
 
 import org.springframework.beans.factory.annotation.Value;
 
-/* import org.springframework.stereotype.Component;
- @Component("database") BUNUDA IoCconfigte
- bean yazarak kullanma ihtiyacımız kalmıyor
- hangi veritabanı ile calışıyorsak bu annotationu
- o clasta kullanıyorduk scanda buluyor işlem görüyordu
- */
-
 
 public class OracleCustomerDal implements ICustomerDal {
 

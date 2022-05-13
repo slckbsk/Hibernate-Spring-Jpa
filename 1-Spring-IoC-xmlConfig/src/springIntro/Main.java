@@ -18,10 +18,3 @@ public class Main {
 }
 
 
-
-
-/*
-IoC - Inversion of Control
-Dependency Injection 
-SOLİD yapı değiştimi eski koda dokunma
-*/

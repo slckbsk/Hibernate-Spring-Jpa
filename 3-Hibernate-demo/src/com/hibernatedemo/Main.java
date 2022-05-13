@@ -28,18 +28,14 @@ public class Main {
 //			  From City c ORDER BY c.name DESC
 //			  ASC-Ascending DESC- Descending
 //			  
-//			  Burda CİTY nesnesi
+
 		  List<City> cities =
 		  session.createQuery("from City c where c.name='Düzce'").getResultList(); 
-//			   
-//			  normalde quert ' update ve delete içinde kullanabiliriz ama 
-//			  getResultList() yerine execudeUpdate() ile örnek session.createQuery("delete City where id=4094").executeUpdate(); 
-//			  
+		  
 			  for (City city:cities) {
 			  System.out.println(city.getName()); 
 			  }
-//			  
-//			  
+			  
 //			  Burda STRING nesnesi cünkü tablodan bir kolon değil kendi istediğimiz stringler
 //			  
 //			  List<String> countrycode =
@@ -69,9 +65,9 @@ public class Main {
 //			 DELETE SİLME
 //
 //			  City city = session.get(City.class, 4093);
-//		      System.out.println(city.getName());
+//		          System.out.println(city.getName());
 //			  session.delete(city);
-//            System.out.println("Şehir silindi");
+//                        System.out.println("Şehir silindi");
 			
 			
 			session.getTransaction().commit();
